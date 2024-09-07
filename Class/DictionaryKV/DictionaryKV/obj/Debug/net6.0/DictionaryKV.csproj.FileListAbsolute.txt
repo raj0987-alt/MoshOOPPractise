@@ -1,0 +1,14 @@
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\bin\Debug\net6.0\DictionaryKV.exe
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\bin\Debug\net6.0\DictionaryKV.deps.json
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\bin\Debug\net6.0\DictionaryKV.runtimeconfig.json
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\bin\Debug\net6.0\DictionaryKV.dll
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\bin\Debug\net6.0\DictionaryKV.pdb
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\obj\Debug\net6.0\DictionaryKV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\obj\Debug\net6.0\DictionaryKV.AssemblyInfoInputs.cache
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\obj\Debug\net6.0\DictionaryKV.AssemblyInfo.cs
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\obj\Debug\net6.0\DictionaryKV.csproj.CoreCompileInputs.cache
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\obj\Debug\net6.0\DictionaryKV.dll
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\obj\Debug\net6.0\refint\DictionaryKV.dll
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\obj\Debug\net6.0\DictionaryKV.pdb
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\obj\Debug\net6.0\DictionaryKV.genruntimeconfig.cache
+D:\Mosh OOP\Class\DictionaryKV\DictionaryKV\obj\Debug\net6.0\ref\DictionaryKV.dll

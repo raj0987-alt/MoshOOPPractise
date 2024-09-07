@@ -1,0 +1,14 @@
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\bin\Debug\net6.0\AccessMidifierDetails.exe
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\bin\Debug\net6.0\AccessMidifierDetails.deps.json
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\bin\Debug\net6.0\AccessMidifierDetails.runtimeconfig.json
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\bin\Debug\net6.0\AccessMidifierDetails.dll
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\bin\Debug\net6.0\AccessMidifierDetails.pdb
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\obj\Debug\net6.0\AccessMidifierDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\obj\Debug\net6.0\AccessMidifierDetails.AssemblyInfoInputs.cache
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\obj\Debug\net6.0\AccessMidifierDetails.AssemblyInfo.cs
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\obj\Debug\net6.0\AccessMidifierDetails.csproj.CoreCompileInputs.cache
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\obj\Debug\net6.0\AccessMidifierDetails.dll
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\obj\Debug\net6.0\refint\AccessMidifierDetails.dll
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\obj\Debug\net6.0\AccessMidifierDetails.pdb
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\obj\Debug\net6.0\AccessMidifierDetails.genruntimeconfig.cache
+D:\Mosh OOP\Inheritance 2nd Piller Of OOP\AccessMidifierDetails\AccessMidifierDetails\obj\Debug\net6.0\ref\AccessMidifierDetails.dll

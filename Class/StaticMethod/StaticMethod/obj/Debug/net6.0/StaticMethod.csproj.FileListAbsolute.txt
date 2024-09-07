@@ -1,0 +1,14 @@
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\bin\Debug\net6.0\StaticMethod.exe
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\bin\Debug\net6.0\StaticMethod.deps.json
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\bin\Debug\net6.0\StaticMethod.runtimeconfig.json
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\bin\Debug\net6.0\StaticMethod.dll
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\bin\Debug\net6.0\StaticMethod.pdb
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.AssemblyInfoInputs.cache
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.AssemblyInfo.cs
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.csproj.CoreCompileInputs.cache
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.dll
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\obj\Debug\net6.0\refint\StaticMethod.dll
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.pdb
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.genruntimeconfig.cache
+D:\Mosh OOP\Class\StaticMethod\StaticMethod\obj\Debug\net6.0\ref\StaticMethod.dll

@@ -1,0 +1,14 @@
+D:\Mosh OOP\AbstractionClass\AbstractionClass\bin\Debug\net6.0\AbstractionClass.exe
+D:\Mosh OOP\AbstractionClass\AbstractionClass\bin\Debug\net6.0\AbstractionClass.deps.json
+D:\Mosh OOP\AbstractionClass\AbstractionClass\bin\Debug\net6.0\AbstractionClass.runtimeconfig.json
+D:\Mosh OOP\AbstractionClass\AbstractionClass\bin\Debug\net6.0\AbstractionClass.dll
+D:\Mosh OOP\AbstractionClass\AbstractionClass\bin\Debug\net6.0\AbstractionClass.pdb
+D:\Mosh OOP\AbstractionClass\AbstractionClass\obj\Debug\net6.0\AbstractionClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mosh OOP\AbstractionClass\AbstractionClass\obj\Debug\net6.0\AbstractionClass.AssemblyInfoInputs.cache
+D:\Mosh OOP\AbstractionClass\AbstractionClass\obj\Debug\net6.0\AbstractionClass.AssemblyInfo.cs
+D:\Mosh OOP\AbstractionClass\AbstractionClass\obj\Debug\net6.0\AbstractionClass.csproj.CoreCompileInputs.cache
+D:\Mosh OOP\AbstractionClass\AbstractionClass\obj\Debug\net6.0\AbstractionClass.dll
+D:\Mosh OOP\AbstractionClass\AbstractionClass\obj\Debug\net6.0\refint\AbstractionClass.dll
+D:\Mosh OOP\AbstractionClass\AbstractionClass\obj\Debug\net6.0\AbstractionClass.pdb
+D:\Mosh OOP\AbstractionClass\AbstractionClass\obj\Debug\net6.0\AbstractionClass.genruntimeconfig.cache
+D:\Mosh OOP\AbstractionClass\AbstractionClass\obj\Debug\net6.0\ref\AbstractionClass.dll
